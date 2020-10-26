@@ -1,11 +1,3 @@
-//
-//  GameScene.swift
-//  project1
-//
-//  Created by user166111 on 4/13/20.
-//  Copyright © 2020 unibuc. All rights reserved.
-//
-
 import SpriteKit
 import GameplayKit
 
