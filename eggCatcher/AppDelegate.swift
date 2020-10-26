@@ -1,11 +1,3 @@
-//
-//  AppDelegate.swift
-//  eggCatcher
-//
-//  Created by user169480 on 4/15/20.
-//  Copyright © 2020 user169480. All rights reserved.
-//
-
 import UIKit
 
 @UIApplicationMain
